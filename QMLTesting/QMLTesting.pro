@@ -1,4 +1,5 @@
 TEMPLATE = subdirs
 
 SUBDIRS += \
-    ToDo
+    ToDo \
+    ToDo_TestRunner
