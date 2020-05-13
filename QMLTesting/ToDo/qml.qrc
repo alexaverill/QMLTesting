@@ -2,5 +2,7 @@
     <qresource prefix="/">
         <file>main.qml</file>
         <file>tst_test.qml</file>
+        <file>Background.qml</file>
+        <file>tst_background.qml</file>
     </qresource>
 </RCC>
